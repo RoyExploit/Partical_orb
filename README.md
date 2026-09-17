@@ -1,3 +1,5 @@
+<img width="530" height="490" alt="image" src="https://github.com/user-attachments/assets/10423ada-a168-43e1-88d6-ce11af6d20e6" />
+
 # Particle Orb
 
 A reactive particle-sphere visualization for a voice assistant UI, like the
