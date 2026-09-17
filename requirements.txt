@@ -1,0 +1,6 @@
+# Use pygame-ce, not "pygame" -- it's a drop-in replacement (same `import
+# pygame` in code) that gets Python-version support (e.g. 3.14) much faster.
+# If you're on Python 3.10-3.13 the original "pygame" package works fine too.
+pygame-ce>=2.5
+numpy>=1.24
+sounddevice>=0.4
